@@ -32,7 +32,10 @@ Detailed Analysis
 District-wise Crop Production: Bar charts showing top districts by crop production.
 Crop-wise Cultivation Area: Bar charts showing top crops by cultivation area.
 District-wise Cultivation Area: Bar charts showing top districts by cultivation area.
+
 Advanced Trends and Seasonal Analysis
+![Screenshot 2024-07-27 235425](https://github.com/user-attachments/assets/e3938301-6877-4f0f-a8de-72305d86f718)
+
 
 Trends in Crop Production Over the Years: Line chart showing crop production trends over the years.
 Crop, Area, and Production: Scatter plot showing the relationship between crop, area, and production.
