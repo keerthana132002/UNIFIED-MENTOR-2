@@ -15,7 +15,7 @@ Area
 Production
 The dataset can be found in the data folder.
 
-Visualizations
+Visualizations:![Screenshot 2024-07-27 235314](https://github.com/user-attachments/assets/9362e87b-8b4b-4522-ab60-a2d1d4b09a47)
 Comprehensive View of Crop Production
 
 Production in Top 3 States: Bar chart showing the sum of production in Kerala, Andhra Pradesh, and Tamil Nadu.
