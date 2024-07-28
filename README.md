@@ -15,6 +15,13 @@ Area
 Production
 The dataset can be found in the data folder.
 
+Key Metrics
+Total Production: 141.18 billion
+Count of Crop Years: 19
+Total Area: 2.95 billion
+Count of District Names: 646
+Count of Crops: 246,091
+
 Visualizations:![Screenshot 2024-07-27 235314](https://github.com/user-attachments/assets/9362e87b-8b4b-4522-ab60-a2d1d4b09a47)
 
 
