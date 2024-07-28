@@ -58,7 +58,7 @@ District-wise Distribution
 
 Sum of Production by District: Bar chart showing the sum of production by district for selected crops and years.
 
-Conclusion
+Conclusion:
 This project provides valuable insights into crop production trends in India. The comprehensive visualizations help identify top-producing states and crops, seasonal variations, and growth rates. These insights can be useful for policymakers, farmers, and researchers to make informed decisions and improve agricultural practices.
 
 Acknowledgements
