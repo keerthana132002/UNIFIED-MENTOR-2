@@ -42,7 +42,12 @@ Advanced Trends and Seasonal Analysis
 Trends in Crop Production Over the Years: Line chart showing crop production trends over the years.
 Crop, Area, and Production: Scatter plot showing the relationship between crop, area, and production.
 Year-over-Year Growth Rate of Crop Production: Line chart showing the growth rate of different crops over the years.
+
 District-wise Distribution
+
+![Screenshot 2024-07-27 235438](https://github.com/user-attachments/assets/5727e9da-7186-4cc2-a14b-f1cee6f0a759)
+
+
 
 Sum of Production by District: Bar chart showing the sum of production by district for selected crops and years.
 
